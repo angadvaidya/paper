@@ -10,5 +10,6 @@ public static void main(String[] args){
 
 Av P=new Av();
 P.A(5,"java",80000);
+  System.out.println("Angad code");
 }
 }
